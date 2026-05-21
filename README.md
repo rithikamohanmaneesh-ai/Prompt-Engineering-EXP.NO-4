@@ -40,6 +40,6 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
-
-  RESULT:
-Implemented and explored Comparative Analysis, Experiential Perspective, and Everyday Functioning prompts to understand diverse AI prompting techniques and applications.
+  
+  ***RESULT:***
+    Implemented and explored Comparative Analysis, Experiential Perspective, and Everyday Functioning prompts to understand diverse AI prompting techniques and        applications.
