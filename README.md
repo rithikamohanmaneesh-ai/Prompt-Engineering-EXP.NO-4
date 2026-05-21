@@ -42,3 +42,4 @@ Everyday Functioning Prompts:
   OUTPUT:
 
   RESULT:
+Implemented and explored Comparative Analysis, Experiential Perspective, and Everyday Functioning prompts to understand diverse AI prompting techniques and applications.
